@@ -1,7 +1,16 @@
 import java.util.Scanner;
-
+/**
+ * @author Lucas Stankevicius
+ * Ultima atualização: 14/02/2022
+ * 
+ */
 public class Escada {
-	
+	/**
+#Questão 01
+Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
+A base e altura da escada devem ser iguais ao valor de n. 
+A última linha não deve conter nenhum espaço.
+ */
 	
 	public static void main (String []args) {
 		
